@@ -1,0 +1,3 @@
+ps -aux | grep "totally_not_malicious"
+sudo kill [PROCESS ID]
+ps -aux | grep "totally_not_malicious"
